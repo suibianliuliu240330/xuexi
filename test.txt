@@ -1,0 +1,27 @@
+total 28
+drwxrwxr-x  3 john john  4096  4月 13 15:53 .
+drwxr-x--- 25 john john  4096  4月 13 16:06 ..
+drwxrwxr-x  8 john john  4096  4月 13 15:49 .git
+-rw-rw-r--  1 john john    27  4月 13 15:18 README.md
+-rw-rw-r--  1 john john     0  4月 13 15:14 test.txt
+-rw-r--r--  1 john john 12288  4月 13 16:12 .test.txt.swp
+
+
+total 28
+drwxrwxr-x  3 john john  4096  4月 13 15:53 .
+drwxr-x--- 25 john john  4096  4月 13 16:06 ..
+drwxrwxr-x  8 john john  4096  4月 13 15:49 .git
+
+
+total 28
+drwxrwxr-x  3 john john  4096  4月 13 15:53 .
+drwxr-x--- 25 john john  4096  4月 13 16:06 ..
+drwxrwxr-x  8 john john  4096  4月 13 15:49 .git
+-rw-rw-r--  1 john john    27  4月 13 15:18 README.md
+-rw-rw-r--  1 john john     0  4月 13 15:14 test.txt
+-rw-r--r--  1 john john 12288  4月 13 16:12 .test.txt.swp
+
+
+-rw-rw-r--  1 john john    27  4月 13 15:18 README.md
+-rw-rw-r--  1 john john     0  4月 13 15:14 test.txt
+-rw-r--r--  1 john john 12288  4月 13 16:12 .test.txt.swp
